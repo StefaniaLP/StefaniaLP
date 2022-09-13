@@ -5,13 +5,12 @@
 --------------------> SOBRE MI.. <--------------------
 
 Holaa, como están? Un gusto conocerlos, les cuento sobre mi...
-Soy programadora full Stack, y esto me apasiona desde hace unos años cuando me anote en la UTN en Córdoba. Entre algunos de mis soft skilll destaco el trabajo en equipo, compañerismo, proactividad y eficiencia.
-Si bien por diversos motivos no pude concluir mi carrera, en este 2022 me egrese en esta profesión que me apasiona ejercer.
-
-Tengo 31 años, mi ultimo trabajo fue como Analista de planeamiento Sr y Supervisora, y tengo una hermosa familia por la que amo luchar cada día.
+Soy Stefania Peralta egresada como Full Stack Developer. Tengo 31 años, vivo en Córdoba Capital, y me apasiona mi profesión. 
+En los puestos en los que me he desarrollado siempre me he destacado por generar un buen clima de trabajo, por el compañerismo, la proactividad, eficiencia, trabajo en equipo y la capacidad en la resolución de problemas.
+Mi ultimo trabajo fue como Analista de planeamiento Sr y Supervisora, y tengo una hermosa familia por la que amo luchar cada día.
 Espero poder aplicar en un hermoso puesto de trabajo donde pueda transmitir mis conocimientos y seguir aprendiendo y perfeccionándome aun mas.
 
-💬 Contáctate conmigo: tefina2301@gmail.com.
+ Contáctate conmigo: tefina2301@gmail.com.
 
 --------------------> SKILLS <--------------------
 
